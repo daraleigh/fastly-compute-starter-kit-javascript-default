@@ -3,3 +3,4 @@ name = "Default starter for JavaScript"
 description = "A basic starter kit that demonstrates routing, simple synthetic responses and overriding caching rules."
 authors = ["<oss@fastly.com>"]
 language = "javascript"
+service_id = "49M3TfFpcYvR6f96t1iWr8"
